@@ -1,8 +1,6 @@
 #problem1
 """
-name1 : abdelrahman kamel 20231091
-name2 : hana wagdy nagi 20230459
-eslam bahr mahmoud 20230558
+
 
 """
 def decimal_to_binary():
