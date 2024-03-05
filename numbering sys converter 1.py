@@ -1,6 +1,11 @@
 #problem1
 """
-
+introduction
+#With the help of this Python script, users may easily convert numerical data between several #bases, such as Decimal, Binary, Octal, and Hexadecimal.
+It functions as a flexible Numbering System Converter.The application handles different numeral systems with meticulous attention to detail by using a set
+of functions that are specifically designed for each conversion. A menu system organizes the user interface and directs users.
+#by choosing the bases for the input and output. 
+This converter offers a simple way to convert numbers between binary and hexadecimal systems, regardless of whether you're working with common decimal numbers or delving deeper into their nuances. For individuals looking to investigate or incorporate similar conversion functions in their applications, the code is easily comprehensible due to its thoughtful commenting.
 
 """
 def decimal_to_binary():
